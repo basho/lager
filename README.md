@@ -1,3 +1,7 @@
+**This repository is deprecated. Lager [moved](http://lists.basho.com/pipermail/riak-users_lists.basho.com/2016-November/018822.html) to https://github.com/erlang-lager/lager**
+
+----
+
 Overview
 --------
 Lager (as in the beer) is a logging framework for Erlang. Its purpose is
